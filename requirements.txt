@@ -1,0 +1,11 @@
+accelerate>=1.0
+nibabel>=5.2
+numpy>=1.26
+peft>=0.14
+Pillow>=10.0
+torch>=2.4
+torchvision>=0.19
+tqdm>=4.66
+transformers>=4.50
+git+https://github.com/facebookresearch/segment-anything.git
+
